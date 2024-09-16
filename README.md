@@ -4,4 +4,4 @@ Sebuah aplikasi dengan fitur login
 Alur fitur Login
 1. Memasukkan Email dan Password
 2. Memvalidasi Masukan
-3. Menampilkan halaman Beranda
+3. Menampilkan halaman Home
